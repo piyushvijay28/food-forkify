@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-app-container{
+  background-color: #f7be86;
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+}
+.sidebar-container::-webkit-scrollbar {
+  display: none;
+}
+
